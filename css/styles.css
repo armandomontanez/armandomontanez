@@ -129,8 +129,8 @@ img#featured {
 	max-width: 829px;
 }
 img.spotlightSquare {
-	height: 250px;
-	width: 250px;
+	height: 180px;
+	width: 180px;
 	box-shadow: 3px 3px 20px #000000;
 	
 	border-radius: 25px;
@@ -139,6 +139,6 @@ img.spotlightSquare {
     border-width: 2px;
 }
 a.spotlightContainer {
-	margin: 30px;
+	margin: 50px;
 	height: auto;
 }
